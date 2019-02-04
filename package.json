@@ -8,7 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "element-ui": "^2.4.11",
     "eosjs": "^16.0.9",
+    "qs": "^6.6.0",
     "scatterjs-core": "^2.5.0",
     "scatterjs-plugin-eosjs": "^1.4.0",
     "scatterjs-plugin-eosjs2": "^1.2.0",
